@@ -1,0 +1,6 @@
+{
+    "parent": "skill:item/skillcrossbow",
+    "textures": {
+        "layer0": "skill:items/aurey_bow_pulling_0"
+    }
+}

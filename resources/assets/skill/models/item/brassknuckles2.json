@@ -1,0 +1,6 @@
+{
+    "parent":"skill:item/standard_knuckles",
+    "textures": {
+        "layer0":"skill:items/handknucklessword"
+    }
+}

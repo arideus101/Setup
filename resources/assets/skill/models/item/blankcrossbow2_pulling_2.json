@@ -1,0 +1,9 @@
+{
+    "parent": "skill:item/skillcrossbow",
+    "textures": {
+        "layer0": "skill:items/blank_bow_pulling_2_1",
+	"layer1": "skill:items/blank_bow_pulling_2_2",
+	"layer2": "skill:items/blank_bow_pulling_2_3",
+	"layer3": "skill:items/blank_bow_pulling_2_4"
+    }
+}

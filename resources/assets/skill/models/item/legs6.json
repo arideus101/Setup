@@ -1,0 +1,6 @@
+{
+    "parent":"skill:item/standard_item",
+    "textures": {
+        "layer0":"skill:items/armor_l7"
+    }
+}

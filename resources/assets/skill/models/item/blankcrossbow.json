@@ -1,0 +1,20 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "skill:items/blank_bow_standby_1",
+	"layer1": "skill:items/blank_bow_standby_2",
+	"layer2": "skill:items/blank_bow_standby_3"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ 5, 0, -45 ],
+            "translation": [ 0, 0.2, -1.5 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson": {
+            "rotation": [ 90, -135, 25 ],
+            "translation": [ 0, 4, 2 ],
+            "scale": [ 1.7, 1.7, 1.7 ]
+        }
+    }
+}

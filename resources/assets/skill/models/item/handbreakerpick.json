@@ -1,0 +1,18 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "skill:items/alpha_pickaxe"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ 0, 90, -35 ],
+            "translation": [ 0, 3.25, -15.5 ],
+            "scale": [ 3.4, 3.4, 3.4 ]
+        },
+        "firstperson": {
+            "rotation": [ 0, -135, 25 ],
+            "translation": [ 0, 4, 2 ],
+            "scale": [ 3.4, 3.4, 3.4 ]
+        }
+    }
+}

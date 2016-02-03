@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "skill:blocks/spec_furnace_top",
+        "front": "skill:blocks/spec_furnace_front_on",
+        "side": "skill:blocks/spec_furnace_side"
+    }
+}

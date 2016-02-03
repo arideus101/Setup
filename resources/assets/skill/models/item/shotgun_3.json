@@ -1,0 +1,6 @@
+{
+    "parent":"skill:item/standard_gun_3",
+    "textures": {
+        "layer0":"skill:items/AmmoShot"
+    }
+}

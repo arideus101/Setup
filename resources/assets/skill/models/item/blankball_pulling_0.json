@@ -1,0 +1,9 @@
+{
+    "parent": "skill:item/blankball",
+    "textures": {
+        "layer0": "skill:items/blank_ball_pulling_0_1",
+	"layer1": "skill:items/blank_ball_pulling_0_2",
+	"layer2": "skill:items/blank_ball_pulling_0_3",
+	"layer3": "skill:items/blank_ball_pulling_0_4"
+    }
+}

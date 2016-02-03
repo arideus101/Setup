@@ -1,0 +1,6 @@
+{
+    "parent":"skill:item/standard_barrel",
+    "textures": {
+        "layer0":"skill:items/gunloot2"
+    }
+}

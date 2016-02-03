@@ -1,0 +1,53 @@
+item.bestbreakerblade.name=Breaker Blade
+item.ghostsword.name=Specter Saber
+item.surgesword.name=Lieutenant Surge
+itemGroup.skilltool=Arideus' Tools
+itemGroup.skillomega=Arideus' Omega
+item.ammopouch.name=Endless Ammo Pouch
+item.brassknuckles.name=Brass Knuckles
+item.brassknuckles2.name=Combined Weapon Device
+item.magicshield.name=Captain America’s Proto Adamantium Shield (Throwing)
+item.magicshield2.name=Captain America’s Proto Adamantium Shield (Smashing)
+item.orbitshield.name=Rune of Protection
+item.hulklegs.name=Hulked out Leggings
+item.mjolnir.name=Mjolnir
+item.timeforce.name=Speed Force Energy Blaster
+
+item.deadpoolsword.name=Deadpool's Katana
+item.deadpoolsword2.name=Deadpool's Special Katana
+item.deadpoollegs.name=Deadpool's Fancy Pants
+item.deadpoolboots.name=Deadpool's Slippers
+item.deadpoolchest.name=Deadpool's Shirt
+
+item.superchest.name=Kryptonian Battle-Chestplate
+item.superlegs.name=Kryptonian Battle-Leggings
+item.superboots.name=Kryptonian Battle-Boots
+
+item.bathelm.name=Batsuit Helmet
+item.batchest.name=Batsuit Chestplate
+item.batlegs.name=Batsuit Leggings
+item.batboots.name=Batsuit Boots
+
+item.skillcrossbow.name=Composite Crossbow
+item.telering.name=Teleportation Device
+item.spechook.name=Spatial Launcher GHX99
+item.legs6.name=Forcefield Belt
+item.boots6.name=Flash Shoes
+item.sniper.name=Sniper Rifle
+item.shotgun.name=Shotgun
+item.machinegun.name=Machinegun
+item.ammo01.name=Normal Round
+item.ammo02.name=Normal Ammo Clip
+item.ammo03.name=Normal Ammo Drum
+death.attack.bullet=%1$s was shot
+death.attack.bullet.player=%1$s was shot by %2$s
+death.attack.bullet.flame=%1$s was shot and burned
+death.attack.bullet.flame.player=%1$s was shot and burned by %2$s
+death.attack.bullet.poison=%1$s was shot and poisoned
+death.attack.bullet.poison.player=%1$s was and poisoned shot by %2$s
+death.attack.bullet.pierce=%1$s was impaled by a bullet
+death.attack.bullet.pierce.player=%2$s' bullet ripped through %1$s
+death.attack.bullet.hook=%1$s was impaled by a Grappling Hook
+death.attack.bullet.hook.player=%1$s was impaled by %2$s's Grappling Hook
+death.attack.bulletExploding=%1$s was ripped apart by a missile
+death.attack.bulletExploding.player=%1$s was ripped apart by %2$s's missile

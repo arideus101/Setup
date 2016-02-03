@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "skill:specfurnace" },
+        "facing=south": { "model": "skill:specfurnace", "y": 180 },
+        "facing=west":  { "model": "skill:specfurnace", "y": 270 },
+        "facing=east":  { "model": "skill:specfurnace", "y": 90 }
+    }
+}
